@@ -1,0 +1,27 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L pmod:PMOD-Device-x2-Type-Generic-Alt P?
+U 1 1 5F7A1CFB
+P 1650 2100
+F 0 "P?" H 1750 2980 60  0000 C CNN
+F 1 "PMOD-Device-x2-Type-Generic-Alt" H 1750 2890 39  0000 C CNN
+F 2 "pmod-conn_6x2:pmod_pin_array_6x2" H 1750 1990 39  0001 C CNN
+F 3 "" H 1750 2400 60  0000 C CNN
+	1    1650 2100
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
